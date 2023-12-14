@@ -11,9 +11,6 @@ What is Seam Carving?
             ▪ Seam Identification: Identify the lowest energy seam.
             ▪ Seam Removal: Remove the lowest energy seam.
 
-
-
-
 Program Flow:
     1. Extract individual pixel’s RGB values from the sample image. Load the RGB values in a 3D matrix (Height x Width x 3).
     2. Apply seam carving algorithm.
