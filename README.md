@@ -16,6 +16,7 @@ Program Flow:
     2. Apply seam carving algorithm.
     3. Generate sample image output using the RGB values for resized image (New_Height x New_Width x 3).
 
+```
 
 How to Run
 
@@ -67,4 +68,3 @@ g++ seam_carving.cpp -o seam_carving `pkg-config --cflags --libs opencv4`
 ```
 
 
-```
